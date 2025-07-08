@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/valoaiza2001/digicampus-form.git/static/css/main.d34ec99d.css",
+    "main.js": "/valoaiza2001/digicampus-form.git/static/js/main.31ad3664.js",
+    "static/js/453.9c2b453b.chunk.js": "/valoaiza2001/digicampus-form.git/static/js/453.9c2b453b.chunk.js",
+    "index.html": "/valoaiza2001/digicampus-form.git/index.html",
+    "main.d34ec99d.css.map": "/valoaiza2001/digicampus-form.git/static/css/main.d34ec99d.css.map",
+    "main.31ad3664.js.map": "/valoaiza2001/digicampus-form.git/static/js/main.31ad3664.js.map",
+    "453.9c2b453b.chunk.js.map": "/valoaiza2001/digicampus-form.git/static/js/453.9c2b453b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d34ec99d.css",
+    "static/js/main.31ad3664.js"
+  ]
+}
